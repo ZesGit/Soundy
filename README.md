@@ -19,4 +19,4 @@ Soundy is a *portable* software, so you just go to [the downloads page](https://
 Soundy doesn't need you to be very... _intellectual_ to use it. Just open the executable, and start the _fun_!
 
 
-###### ~~_*uses Google for web audio downloads, and google uses a lot of thackers._~~
+###### ~~_*uses Google for web audio downloads, and google uses a lot of trackers._~~
